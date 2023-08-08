@@ -1,4 +1,15 @@
-# Converter_coin
-Conversor de moedas bitcoin para moeda Real <br>
-Usando a libary requests para pegar as informações em tempo real e o PySimpleGui para criar uma interface grafica.
+<h1>Currency converter</h1>
+<p>
+  Aplicação com interface gráfica que faz a conversão de bitcoin para real, utilizando uma API.
+</p>
+<h2>Tecnologias</h2>
+<ul>
+  <li>Python</li>
+  <li>API</li>
+</ul>
+<h2>Bibliotecas</h2>
+<ul>
+  <li>Requests</li>
+  <li>PySimpleGui</li>
+</ul>
  
